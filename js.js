@@ -4,3 +4,4 @@ function a (){
 function b(){
 	alert('1')
 }
+alert();
