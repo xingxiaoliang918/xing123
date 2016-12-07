@@ -5,3 +5,4 @@ function b(){
 	alert('1')
 }
 alert();
+console.log();
