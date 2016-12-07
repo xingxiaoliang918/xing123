@@ -6,3 +6,4 @@ function b(){
 }
 alert();
 console.log();
+var arr = ['a','b','c']
